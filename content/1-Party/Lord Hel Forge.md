@@ -1,6 +1,7 @@
 ---
 title: Hel Forge
 draft: false
-tags:
+tags: 
+publish: true
 ---
 Hel is Dragonborn Oath of Redemption Paladin

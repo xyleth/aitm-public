@@ -1,7 +1,8 @@
 ---
 title: Death House
 draft: false
-tags:
+tags: 
+publish: true
 ---
 Durst manor, better known as the 'Death House', was a country manor the party encountered in the town of Daggerford.  The house was possessed by the spirit of the bastard child of Mr. Durst, Walter who had been ritually sacrificed by his wife Elisabeth.
 

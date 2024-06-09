@@ -1,6 +1,7 @@
 ---
 title: Darius
 draft: false
-tags:
+tags: 
+publish: true
 ---
 Darius is a human Paladin.

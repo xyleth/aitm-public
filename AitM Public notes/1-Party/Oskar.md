@@ -1,6 +1,7 @@
 ---
 title: Oskar
 draft: false
-tags:
+tags: 
+publish: true
 ---
 Oskar is a Human Cleric of Lathander.
