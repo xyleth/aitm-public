@@ -4,4 +4,4 @@ draft: false
 tags: 
 publish: true
 ---
-Darius is a human Paladin.
+Darius is a human Oath of Redemption Paladin.

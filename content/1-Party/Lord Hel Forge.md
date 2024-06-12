@@ -4,4 +4,4 @@ draft: false
 tags: 
 publish: true
 ---
-Hel is Dragonborn Oath of Redemption Paladin
+Hel is Dragonborn Oath of The Open Seas Paladin
