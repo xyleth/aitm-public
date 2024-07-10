@@ -4,7 +4,7 @@ draft: false
 tags: 
 publish: true
 ---
-This is a manuscript the party won in the Game of Stories at Tser Pool.  It reads as follows:
+This is a manuscript the party won in the Game of Stories at [[Tser Pool]].  It reads as follows:
 
 > Werewolves are among the most fearsome lycanthropes, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
 > 
